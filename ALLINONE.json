@@ -7,7 +7,7 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 1,
+            "int_interval" : 5,
             "activate_ads" : "true",
             "activate_steps" : "true",
             "activate_step_email" : "false",
@@ -26,9 +26,9 @@
             "max_native" : "",
             "max_int" : "",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
-            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
-            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "fan_ban": "",
+            "fan_native": "",
+            "fan_int": "",
 
             "iron_source_key": "",
 
