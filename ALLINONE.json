@@ -3,9 +3,9 @@
         {
             "activate_vpn" : "false",
             "activate_force_vpn" : "false",
-            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
-            "vpn_user" : "freeopenvpn",
-            "vpn_password" : "204703142",
+            "vpn_path" : "",
+            "vpn_user" : "",
+            "vpn_password" : "",
 
             "int_interval" : 5,
             "activate_ads" : "true",
@@ -18,19 +18,19 @@
             "admob_native" : "ca-app-pub-3071522790697118/5116923637",
             "admob_int" : "ca-app-pub-3071522790697118/6742908725",
             
-            "yandex_ban" : "R-M-1820435-1",
-            "yandex_native" : "R-M-1820435-2",
-            "yandex_int" : "R-M-1820435-3",
+            "yandex_ban" : "",
+            "yandex_native" : "",
+            "yandex_int" : "",
 
-            "max_ban" : "ceda1a6dd62a0502",
-            "max_native" : "9e27ff985bda79be",
-            "max_int" : "3805b3b693717700",
+            "max_ban" : "",
+            "max_native" : "",
+            "max_int" : "",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
-            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
-            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "fan_ban": "",
+            "fan_native": "",
+            "fan_int": "",
 
-            "iron_source_key": "12c959ebd",
+            "iron_source_key": "",
 
 
             "diamond": "https://raw.githubusercontent.com/nezdedio/rbx-poppa/main/rbx-poppy/Nouveau%20dossier/r.png",
