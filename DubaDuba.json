@@ -177,9 +177,9 @@
     
     "games" : [
         {
-            "name" : "Vegas Crime City",
-            "ico" : "https://avatars.mds.yandex.net/get-games/1890793/2a0000016b6fe773d3849a225d29d91c8ae7/pjpg170x170",
-            "link" : "https://yandex.com/games/app/97459",
+            "name" : "Downtown 1930s Mafia",
+            "ico" : "https://images.crazygames.com/downtown-1930s-mafia/20201106164225/downtown-1930s-mafia-cover?auto=format%2Ccompress&q=45&cs=strip&ch=DPR&w=272&h=153&fit=crop",
+            "link" : "https://www.crazygames.com/game/downtown-1930s-mafia",
             "cat" : "Overall",
             "orientation" : "1"
         },{
