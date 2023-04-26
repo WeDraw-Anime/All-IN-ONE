@@ -68,11 +68,11 @@
         {
             "images" :
             [
-                { "image" : "https://cdn.akamai.steamstatic.com/steam/apps/1677740/ss_39dd63c1ac25fe267021845e5374da17c9455393.1920x1080.jpg?t=1650527635" },
-                { "image" : "https://c.tenor.com/SBj5aYuNpAUAAAAC/arunraj-stumble-guys.gif" },
-                { "image" : "https://cdn.cloudflare.steamstatic.com/steam/apps/1677740/ss_2a10d8f0b09d3ef56538e254c8ad2a783b30f39a.1920x1080.jpg?t=1650527635" },
-                { "image" : "https://c.tenor.com/u9exTGy3NcgAAAAC/stumble-guys-honey-drop.gif" },
-                { "image" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/02/1177498885.png" }
+                { "image" : "" },
+                { "image" : "" },
+                { "image" : "" },
+                { "image" : "" },
+                { "image" : "" }
             ],
             "answers" :
             [
@@ -177,15 +177,15 @@
     
     "games" : [
         {
-            "name" : "Snake.io: Fun Snake .io Games",
-            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
-            "link" : "https://html5.gamedistribution.com/571b9df027e449f78e3869ba19658754/",
+            "name" : "Vegas Crime City",
+            "ico" : "https://avatars.mds.yandex.net/get-games/1890793/2a0000016b6fe773d3849a225d29d91c8ae7/pjpg170x170",
+            "link" : "https://yandex.com/games/app/97459",
             "cat" : "Overall",
             "orientation" : "1"
         },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "name" : "Gas Station Simulator",
+            "ico" : "https://avatars.mds.yandex.net/get-games/3006389/2a000001848a12a95d4d49621f0992eb522a/pjpg170x170",
+            "link" : "https://yandex.com/games/app/202728",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
