@@ -15,7 +15,7 @@
             "network" : "admob",
 
             "admob_ban" : "ca-app-pub-3071522790697118/9369072065",
-            "admob_native" : "ca-app-pub-3071522790697118/5116923637",
+            "admob_native" : "",
             "admob_int" : "ca-app-pub-3071522790697118/6742908725",
             
             "yandex_ban" : "",
