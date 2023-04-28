@@ -7,7 +7,7 @@
             "vpn_user" : "",
             "vpn_password" : "",
 
-            "int_interval" : 0,
+            "int_interval" : 5,
             "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
@@ -177,45 +177,45 @@
     
     "games" : [
         {
-            "name" : "Cargo Truck 18",
-            "ico" : "https://avatars.mds.yandex.net/get-games/1890793/2a0000016d7e31f97c624115c0241fbcf717/pjpg170x170",
-            "link" : "https://yandex.com/games/app/211218",
+            "name" : "REAL CARGO TRUCK SIMULATOR",
+            "ico" : "https://img.gamedistribution.com/1ea2160082d542ce8d9166f63f61d366-512x512.jpeg",
+            "link" : "https://html5.gamedistribution.com/1ea2160082d542ce8d9166f63f61d366",
             "cat" : "Overall",
-            "orientation" : "1"
+            "orientation" : "0"
         },{
-            "name" : "3D Trucks Transit Game",
-            "ico" : "https://avatars.mds.yandex.net/get-games/3006389/2a000001843c392c740e6aab1bf1582cb301/pjpg170x170",
-            "link" : "https://yandex.com/games/app/193387",
+            "name" : "TRUCK SPACE",
+            "ico" : "https://img.gamedistribution.com/4b9e136b891b4886bc5ee05663f39345-512x512.jpeg",
+            "link" : "https://html5.gamedistribution.com/4b9e136b891b4886bc5ee05663f39345",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
-            "name" : "Offroad Truck 3D",
-            "ico" : "https://avatars.mds.yandex.net/get-games/2977039/2a0000017e3a7ae3c6e7de5d721e78e6df82/pjpg170x170",
-            "link" : "https://yandex.com/games/app/175824",
+            "name" : "FLYING FIRE TRUCK DRIVING SIM",
+            "ico" : "https://img.gamedistribution.com/33f05a0cf445452fbb01ebac34c2b07f-512x512.jpeg",
+            "link" : "https://html5.gamedistribution.com/33f05a0cf445452fbb01ebac34c2b07f",
             "cat" : "Soccer",
-            "orientation" : "1"
+            "orientation" : "0"
         },{
-            "name" : "Monster Truck Soccer",
-            "ico" : "https://avatars.mds.yandex.net/get-games/2977039/2a000001794e0e80a2b6ac1332943f69a839/pjpg170x170",
-            "link" : "https://yandex.com/games/app/164560",
+            "name" : "ARMY MACHINE TRANSPORTER TRUCK",
+            "ico" : "https://img.gamedistribution.com/c96387fd04c14cf0a2703a6755423f19-512x512.jpeg",
+            "link" : "https://html5.gamedistribution.com/c96387fd04c14cf0a2703a6755423f19/",
             "cat" : "Arcade",
-            "orientation" : "1"
+            "orientation" : "0"
         },{
-            "name" : "Cyber Race",
-            "ico" : "https://avatars.mds.yandex.net/get-games/1892995/2a00000187170177f0ecf3457e88245095f7/pjpg170x170",
-            "link" : "https://yandex.com/games/app/218766",
+            "name" : "SEMI TRUCK SNOW SIMULATOR",
+            "ico" : "https://img.gamedistribution.com/2426292803f24e7898112d0b136a04cb-512x512.jpeg",
+            "link" : "https://html5.gamedistribution.com/2426292803f24e7898112d0b136a04cb/",
             "cat" : "Puzzles",
             "orientation" : "0"
         },{
-            "name" : "The Cargo",
-            "ico" : "https://avatars.mds.yandex.net/get-games/1892995/2a0000017ffd99487b0387ed59362911ddcb/pjpg170x170",
-            "link" : "https://yandex.com/games/app/178649",
+            "name" : "AMERICAN TRUCK CAR DRIVING",
+            "ico" : "https://img.gamedistribution.com/d3e870c05a48468c8e03062b75698b8a-512x512.jpe",
+            "link" : "https://html5.gamedistribution.com/d3e870c05a48468c8e03062b75698b8a/",
             "cat" : "Hypercasual",
-            "orientation" : "1"
+            "orientation" : "0"
         },{
-            "name" : "Crazy Truck 3D",
-            "ico" : "https://avatars.mds.yandex.net/get-games/1892995/2a0000018577643a25c7353b61581bf65ede/pjpg170x170",
-            "link" : "https://yandex.com/games/app/209561",
+            "name" : "18 WHEELER TRUCK PARKING 2",
+            "ico" : "https://img.gamedistribution.com/2b960aded95f484195604fd24aae58bf-512x512.jpeg",
+            "link" : "https://html5.gamedistribution.com/2b960aded95f484195604fd24aae58bf/",
             "cat" : "Arcade",
             "orientation" : "0"
         }
