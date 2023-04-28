@@ -9,8 +9,8 @@
 
             "int_interval" : 5,
             "activate_ads" : "true",
-            "activate_steps" : "false",
-            "activate_step_email" : "false",
+            "activate_steps" : "true",
+            "activate_step_email" : "true",
             "one_signal" : "670cd40c-6a5c-46b0-a751-1655c0b761a0",
             "network" : "admob",
 
