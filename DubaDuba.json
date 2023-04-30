@@ -7,7 +7,7 @@
             "vpn_user" : "",
             "vpn_password" : "",
 
-            "int_interval" : 0,
+            "int_interval" : 5,
             "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
